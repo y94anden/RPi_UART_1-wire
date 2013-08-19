@@ -11,3 +11,6 @@ which might be needed if the network is long.
 Subfolder `circuit` contains a buffer circuit for this project. Subfolder `doc`
 contains notes on how to setup the raspberry and how the timing of the 1-wire
 corresponds to the UART baudrates.
+
+This project is based on an application note from Maxim:
+http://www.maximintegrated.com/app-notes/index.mvp/id/214
